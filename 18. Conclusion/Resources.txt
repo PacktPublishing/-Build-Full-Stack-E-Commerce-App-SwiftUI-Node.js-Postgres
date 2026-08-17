@@ -1,0 +1,22 @@
+Backend / API
+
+Express.js (Node.js framework) – Official site: https://expressjs.com/ (expressjs.com)
+
+Express tutorial / MDN: https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction (MDN Web Docs)
+
+Database / Backend Platform
+
+Supabase Docs – https://supabase.com/docs (Supabase)
+
+Supabase API Reference – https://supabase.com/docs/reference (Supabase)
+
+Supabase Auth overview – https://supabase.com/auth (Supabase)
+
+Payments / E-Commerce Payments Integration
+
+Stripe API Reference – https://docs.stripe.com/api (docs.stripe.com)
+
+Stripe Guide – https://docs.stripe.com/ (docs.stripe.com)
+
+Stripe Payments Documentation – https://docs.stripe.com/payments (docs.stripe.com)
+
